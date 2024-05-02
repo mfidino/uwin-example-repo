@@ -1,5 +1,3 @@
-# I added this comment on the main branch
-
 # Simulate data for a linear regression
 
 # Model parameters
