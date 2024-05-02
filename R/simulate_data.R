@@ -1,5 +1,3 @@
-# I added this comment on the my-first-git-conflict branch
-
 # Simulate data for a linear regression
 
 # Model parameters
